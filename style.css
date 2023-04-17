@@ -1,0 +1,43 @@
+.nav-link{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    align-content: end;
+}
+.card{
+    margin: 5px;
+    padding: 2px;
+}
+.kkt{
+    align-self: center;
+}
+
+.tvojemama{
+    border-radius: 35px;
+}
+
+.card-header{
+    font-weight: bold;
+    font-size: large;
+}
+
+.abdul{
+    width: 500px;
+    align-self: center;
+    
+}
+
+.xdd{
+    text-align: center;
+}
+
+.ksks{
+    text-align: center;
+}
+
+.kkks{
+    text-align: center;
+}
+
+.kkkk{
+    margin-top: 10px;
+}
