@@ -41,3 +41,10 @@
 .kkkk{
     margin-top: 10px;
 }
+
+.row{
+    flex-wrap: wrap;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+}
